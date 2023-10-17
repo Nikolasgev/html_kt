@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.intro {
+  text-align: center;
+}
+.intro h1 {
+  font-size: 28px;
+  color: #5a00e1;
+}
+.intro p {
+  font-size: 16px;
+  color: #6C757D;
+}
+
+.advantages {
+  margin-top: 30px;
+}
+.advantages .advantage {
+  margin-bottom: 20px;
+}
+.advantages .advantage h3 {
+  font-size: 20px;
+  color: #5a00e1;
+}
+.advantages .advantage p {
+  font-size: 16px;
+  color: #6C757D;
+}
+
+.getting-started {
+  margin-top: 30px;
+}
+.getting-started h2 {
+  font-size: 24px;
+  color: #5a00e1;
+}
+.getting-started ol {
+  list-style: decimal;
+  padding-left: 20px;
+}
+.getting-started ol li {
+  font-size: 16px;
+  color: #6C757D;
+}
+
+/*# sourceMappingURL=styles.css.map */
